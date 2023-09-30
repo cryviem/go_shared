@@ -3,7 +3,7 @@ package concurrency
 import "sync"
 
 func PackageInfo() string {
-	return "concurrency has NOT been implemented!"
+	return "concurrency now has: Runnable!"
 }
 
 type Runnable struct {
